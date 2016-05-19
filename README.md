@@ -1,2 +1,3 @@
 # hello-world
-jusnt another repo
+just another repo
+Tacos and Burritos
